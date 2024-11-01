@@ -1,0 +1,21 @@
+{
+  "name": "layer_clipping",
+  "version": "1.0.0",
+  "description": "layer clipping minimal reproduce",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+	"build": "vite build"
+  },
+  "keywords": [
+    "example",
+    "ol"
+  ],
+  "author": "Nikonov",
+  "dependencies": {
+    "ol": "^10.2.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
